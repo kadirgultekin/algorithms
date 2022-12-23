@@ -1,0 +1,8 @@
+{
+	"name": "sorting-driver-package",
+	"scripts": {
+		"start": "node src/driver.js"
+	},
+	"type": "module",
+	"version": "0.0.0"
+}
