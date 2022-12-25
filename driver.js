@@ -1,6 +1,6 @@
 import { makeRandomArray } from "./util-functions.mjs";
 
-import insertionSort from "./insertion-sort.mjs";
+import insertionSort from "./sorting/insertion-sort.mjs";
 
 let testArray = makeRandomArray(50, -100, 100);
 

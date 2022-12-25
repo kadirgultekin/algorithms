@@ -1,4 +1,4 @@
-import { swap } from "./util-functions.mjs";
+import { swap } from "../util-functions.mjs";
 
 const bubbleSort = (list) => {
   let swapped;
