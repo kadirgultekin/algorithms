@@ -7,6 +7,7 @@ Here is the list of sorting algorithms.
 
 1. Bubble Sort
 2. Insertion Sort
+3. Selection Sort
 
 ## Utility functions
 
